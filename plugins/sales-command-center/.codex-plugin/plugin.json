@@ -1,0 +1,19 @@
+{
+  "name": "sales-command-center",
+  "version": "0.1.0+codex.20260610072750",
+  "description": "Daily AI companion for sales reps. Generates account research briefs, pre-call prep, post-call processing (SPICED, follow-up emails, opp updates, tasks), and pre-forecast pipeline briefings.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sales Command Center",
+    "shortDescription": "Daily AI companion for sales reps.",
+    "longDescription": "Daily AI companion for sales reps. Generates account research briefs, pre-call prep, post-call processing (SPICED, follow-up emails, opp updates, tasks), and pre-forecast pipeline briefings.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Sales Command Center for sales prep, follow-up, pipeline hygiene, and account research."
+  },
+  "mcpServers": "./.mcp.json"
+}

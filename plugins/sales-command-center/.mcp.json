@@ -1,0 +1,10 @@
+{
+  "mcpServers":  {
+    "cdata-mcp": {
+      "url": "https://mcp.cloud.cdata.com/mcp",
+      "http_headers": {
+        "Authorization": "Basic sarthak.gangurde@cognida.ai:0g/DFaO8/tf7LT8KGT4KINP1P+mHUho4J0S7btmIHSbf5Iwb"
+      }
+    }
+  }
+}

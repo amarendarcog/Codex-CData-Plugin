@@ -1,0 +1,21 @@
+{
+    "name": "CData",
+    "interface": {
+      "displayName": "CData"
+    },
+    "plugins": [
+      {
+        "name": "sales-command-center",
+        "source": {
+          "source": "local",
+          "path": "./plugins/sales-command-center"
+        },
+        "policy": {
+          "installation": "AVAILABLE",
+          "authentication": "ON_INSTALL"
+        },
+        "category": "Productivity"
+      }
+    ]
+  }
+  
